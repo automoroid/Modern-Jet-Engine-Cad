@@ -1,5 +1,7 @@
 # Modern High-Bypass Turbofan Engine
 
+<img width="1920" height="1020" alt="Jet Engine" src="https://github.com/user-attachments/assets/1bb514a9-418e-4e82-a319-81f50f73ce66" />
+
 This repository contains a detailed 3D CAD model of a modern jet engine. The design focuses on the architecture of high-bypass turbofans used in commercial aviation, emphasizing the mechanical relationship between the cold fan section and the hot power core.
 
 ## 🛠 Project Overview
