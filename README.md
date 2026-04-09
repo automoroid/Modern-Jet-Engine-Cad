@@ -16,7 +16,7 @@ The model follows the **Brayton Cycle** ("Suck, Squeeze, Burn, Blow") and includ
 *   **Primary Goal:** Educational visualization and mechanical design study.
 
 ## 📂 File Formats
-*   `.STEP` / `.STP`: For universal CAD compatibility (SolidWorks, CATIA).
+*   `.STEP` / `.STP`/ `.SLDASM`: For universal CAD compatibility (SolidWorks, CATIA).
 *   `.STL`: Optimized for 3D printing and mesh viewing.
 *   `.PNG`: High-resolution renders of the final assembly.
 
